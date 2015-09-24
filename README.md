@@ -6,7 +6,7 @@ In order to create a dataset on HDX programmatically, run the functions `CreateD
 
 HDX has created a series of custom validators. Please refer to the file `dataset.json` for an example that includes all the required fields for a dataset and the `resource.json` file for the required fields for a resource.
 
-You will notice that, in HDX, there are a number of fields that are required. For instance, you will need to add a `group` field which refers to a country in HDX by adding the country's ISO 3-letter-code.
+You will notice that, in HDX, there are a number of fields that are required. For instance, you will need to add a `group` field which refers to a country in HDX by adding the country's ISO 3-letter-code. For more information about the HDX metadata, please refer to HDX's [dataset metadata guide](http://docs.hdx.rwlabs.org/providing-metadata-for-your-datasets-on-hdx/).
 
 ## Usage
 To experiment with the script, do the following:
