@@ -1,0 +1,7 @@
+{
+  "url": "http://example.org/example_file.zip",
+  "package_id": "test-dataset-foo-bar-2",
+  "format": "ZIP",
+  "description": "This file contains foo-bar shapefiles.",
+  "name": "example_file.zip"
+}
