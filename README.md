@@ -21,3 +21,7 @@ Create a virtual environment using `virtualenv` and install the dependencies fro
 ```shell
 $ make setup
 ```
+
+##TO-DO
+* Add script to create GeoJSON resource for *all* projects on GeoTagX
+* Refactor and add separate configuration file for params like author, email, etc
